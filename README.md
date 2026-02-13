@@ -11,12 +11,12 @@
 
 ## 🚀 About Me
 
-Aspiring Web Developer with strong foundational experience in **Python, PHP, and full-stack web development**. Skilled in building real-world applications, from web portals to custom utilities. Enthusiastic learner with a background in branding, analytics, and cross-functional teamwork gained through diverse internships. Passionate about solving problems through code and contributing to meaningful digital experiences.
+Aspiring Web Developer with strong foundational experience in **Python and full-stack web development**. Skilled in building real-world applications, from web portals to custom utilities. Enthusiastic learner with a background in branding, analytics, and cross-functional teamwork gained through diverse internships. Passionate about solving problems through code and contributing to meaningful digital experiences.
 
 - 🔭 I'm currently working on **web applications and API development**
 - 🌱 I'm currently learning **advanced Flask, Django, and full-stack technologies**
 - 👯 I'm looking to collaborate on **open-source projects and innovative web solutions**
-- 💬 Ask me about **Python, Flask, PHP, web development, and creative design**
+- 💬 Ask me about **Python, Flask, web development, and creative design**
 - ⚡ Fun fact: Strong interest in animation and creative media through the Adobe Suite, and a passionate advocate for consumer freedom and digital accessibility
 
 ---
@@ -25,7 +25,6 @@ Aspiring Web Developer with strong foundational experience in **Python, PHP, and
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -73,7 +72,7 @@ Procedural fantasy character generator with detailed biodata, backstories, facti
 ### 🏠 [PG Accommodation System](https://github.com/vishwassharma38/pg-accommodation)
 
 Full-stack web portal for students to find and manage PG accommodations with admin dashboard.  
-**Tech:** PHP, MySQL, HTML/CSS
+**Tech:** MySQL, HTML/CSS
 
 ### 🤖 [AI Voice Assistant](https://github.com/vishwassharma38/voice-assistant)
 
@@ -89,7 +88,8 @@ Real-time messenger systems (SATI & Blazing Messenger) with custom commands and 
 
 ## 📊 GitHub Stats
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwassharma38&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishwassharma38&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishwassharma38&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
