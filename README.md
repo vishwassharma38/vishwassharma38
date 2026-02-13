@@ -36,7 +36,6 @@ Aspiring Web Developer with strong foundational experience in **Python and full-
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 **Tools & Platforms:**  
