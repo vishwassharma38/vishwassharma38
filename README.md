@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Aspiring Web Developer with strong foundational experience in **Python and full-stack web development**. Skilled in building real-world applications, from web portals to custom utilities. Enthusiastic learner with a background in branding, analytics, and cross-functional teamwork gained through diverse internships. Passionate about solving problems through code and contributing to meaningful digital experiences.
 
@@ -21,7 +21,7 @@ Aspiring Web Developer with strong foundational experience in **Python and full-
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -50,7 +50,7 @@ Aspiring Web Developer with strong foundational experience in **Python and full-
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🌐 [LinkShrine.link](https://github.com/vishwassharma38/linkshrine)
 
@@ -84,7 +84,7 @@ Real-time messenger systems (SATI & Blazing Messenger) with custom commands and 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishwassharma38)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishwassharma38@gmail.com)
