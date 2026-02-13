@@ -52,32 +52,32 @@ Aspiring Web Developer with strong foundational experience in **Python and full-
 
 ## Featured Projects
 
-### 🌐 [LinkShrine.link](https://github.com/vishwassharma38/linkshrine)
+### [LinkShrine.link](https://github.com/vishwassharma38/linkshrine)
 
 Curated anime streaming directory with live link validation, automatic dead-link replacement, and pixel-art-inspired UI.  
 **Tech:** Flask, Python, JavaScript, Jinja2, Render
 
-### 🎨 [Waifuwalls](https://github.com/vishwassharma38/waifuwalls)
+### [Waifuwalls](https://github.com/vishwassharma38/waifuwalls)
 
 Digital art and wallpaper platform for anime, fantasy, sci-fi, and nature categories with aesthetic UI.  
 **Tech:** Flask, PostgreSQL, Jinja2
 
-### ⚔️ [Scrollforge API](https://github.com/vishwassharma38/scrollforge)
+### [Scrollforge API](https://github.com/vishwassharma38/scrollforge)
 
 Procedural fantasy character generator with detailed biodata, backstories, factions, and alliances.  
 **Tech:** Flask, JSON, Python, Render
 
-### 🏠 [PG Accommodation System](https://github.com/vishwassharma38/pg-accommodation)
+### [PG Accommodation System](https://github.com/vishwassharma38/pg-accommodation)
 
 Full-stack web portal for students to find and manage PG accommodations with admin dashboard.  
 **Tech:** MySQL, HTML/CSS
 
-### 🤖 [AI Voice Assistant](https://github.com/vishwassharma38/voice-assistant)
+### [AI Voice Assistant](https://github.com/vishwassharma38/voice-assistant)
 
 Personalized voice assistant for executing system commands with failover handling.  
 **Tech:** Python, pyttsx3
 
-### 💬 [Telegram Chat Messenger](https://github.com/vishwassharma38/telegram-messenger)
+### [Telegram Chat Messenger](https://github.com/vishwassharma38/telegram-messenger)
 
 Real-time messenger systems (SATI & Blazing Messenger) with custom commands and user verification.  
 **Tech:** Python, Telegram API
