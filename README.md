@@ -86,11 +86,6 @@ Real-time messenger systems (SATI & Blazing Messenger) with custom commands and 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishwassharma38&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishwassharma38&layout=compact&theme=radical)
-
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishwassharma38)
