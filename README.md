@@ -2,8 +2,8 @@
 
 ## Web Developer | Software Engineer
 
-📧 **Email:** vishwassharma38@gmail.com  
-🌐 **Portfolio:** [vishwassharma38.github.io](https://vishwassharma38.github.io)
+ **Email:** vishwassharma38@gmail.com
+ **Portfolio:** [vishwassharma38.github.io](https://vishwassharma38.github.io)
 
 ---
 
