@@ -2,9 +2,7 @@
 
 ## Web Developer | Software Engineer
 
-📍 **Location:** Vidisha, Madhya Pradesh, India  
 📧 **Email:** vishwassharma38@gmail.com  
-📞 **Phone:** +91 88178 58540  
 🌐 **Portfolio:** [vishwassharma38.github.io](https://vishwassharma38.github.io)
 
 ---
