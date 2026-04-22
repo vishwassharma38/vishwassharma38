@@ -60,17 +60,6 @@ Digital art and wallpaper platform across anime, fantasy, sci-fi, and nature cat
 Procedural fantasy character generator producing detailed biodata, backstories, factions, and alliances.
 **Stack:** Flask · JSON · Python · Render
 
-### [PG Accommodation System](https://github.com/vishwassharma38/pg-accommodation)
-Full-stack web portal enabling students to find and manage PG accommodations, with an admin dashboard.
-**Stack:** MySQL · HTML · CSS
-
-### [AI Voice Assistant](https://github.com/vishwassharma38/voice-assistant)
-Personalized voice assistant for executing system commands with failover handling.
-**Stack:** Python · pyttsx3
-
-### [Telegram Chat Messenger](https://github.com/vishwassharma38/telegram-messenger)
-Real-time messenger systems (SATI & Blazing Messenger) with custom commands and user verification.
-**Stack:** Python · Telegram API
 
 ---
 
