@@ -60,6 +60,9 @@ Digital art and wallpaper platform across anime, fantasy, sci-fi, and nature cat
 Procedural fantasy character generator producing detailed biodata, backstories, factions, and alliances.
 **Stack:** Flask · JSON · Python · Render
 
+### [LinkShrine Crawler](https://github.com/vishwassharma38/LinkShrine-Crawler)
+A Python-based web crawler for fetching and organizing anime streaming site links.
+**stack** Flask · JSON · Python · Render
 
 ---
 
