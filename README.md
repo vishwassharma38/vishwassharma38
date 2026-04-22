@@ -62,7 +62,7 @@ Procedural fantasy character generator producing detailed biodata, backstories, 
 
 ### [LinkShrine Crawler](https://github.com/vishwassharma38/LinkShrine-Crawler)
 A Python-based web crawler for fetching and organizing anime streaming site links.
-**stack** Flask · JSON · Python · Render
+**Stack** Flask · JSON · Python · Render
 
 ---
 
